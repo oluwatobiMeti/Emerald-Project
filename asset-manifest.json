@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/static/css/main.e6b40fcf.css",
+    "main.js": "/static/js/main.1e297ca7.js",
+    "static/media/champions-laguee.webp": "/static/media/champions-laguee.24e0257de0b198e3cf4e.webp",
+    "static/media/bund-logo.jpg": "/static/media/bund-logo.9206f49596ff5495b8d6.jpg",
+    "static/media/laliga-img.webp": "/static/media/laliga-img.de212512abcde32e1d07.webp",
+    "static/media/lewandoski.jpg": "/static/media/lewandoski.50410c298f2053be5a82.jpg",
+    "static/media/league 1.webp": "/static/media/league 1.2838b637cbd466780fd4.webp",
+    "static/media/mbappe.jpg": "/static/media/mbappe.208cbdf5c265abc2cff0.jpg",
+    "static/media/hero1.png": "/static/media/hero1.87602b1147eeb8332510.png",
+    "static/media/serie a.png": "/static/media/serie a.1ab8fa61295490cee133.png",
+    "static/media/malik.jfif": "/static/media/malik.8cd332218bc7aea9955f.jfif",
+    "static/media/eze.jfif": "/static/media/eze.158b8913b10a1405e2bc.jfif",
+    "static/media/img.jpeg": "/static/media/img.7a4c7ac8290d0dd22f0d.jpeg",
+    "static/media/prem-image.jpg": "/static/media/prem-image.e35e142b538d5885fd15.jpg",
+    "static/media/zainab.jfif": "/static/media/zainab.b494d6f5daa2b7c9d938.jfif",
+    "static/media/vivian.jfif": "/static/media/vivian.6bf9d1fa2bbfacd28e8c.jfif",
+    "static/media/tobi.jfif": "/static/media/tobi.1a9977ba4439e6737d0b.jfif",
+    "static/media/dmd.jfif": "/static/media/dmd.d5079af4db34f875da21.jfif",
+    "index.html": "/index.html",
+    "main.e6b40fcf.css.map": "/static/css/main.e6b40fcf.css.map",
+    "main.1e297ca7.js.map": "/static/js/main.1e297ca7.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6b40fcf.css",
+    "static/js/main.1e297ca7.js"
+  ]
+}
